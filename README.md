@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
   <div align>
   <h1 align="center" width="50%">Hi 👋, I'm LDevJ
  <a href="https://www.linkedin.com/in/luis-alberto-pejerrey-chupillon" target="_blank">
