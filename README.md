@@ -1,5 +1,47 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+  <div align>
+  <h1 align="center" width="50%">Hi 👋, I'm LDevJ
+ <a href="https://www.linkedin.com/in/luis-alberto-pejerrey-chupillon" target="_blank">
+  <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="32"/>
+</a>
+ <a href="https://twitter.com/Luigui_PJ" target="_blank">
+  <img src="https://media.giphy.com/media/ktfqJcs9AVf4HeDLFK/giphy.gif" width="30"/>
+</a>
+<a href="https://www.instagram.com/luigui.pj/" target="_blank">
+  <img src="https://media.giphy.com/media/WyZy1cltG36Y04OCLG/giphy.gif" width="30"/>
+</a></h1>
+  </div>
+  <h3 align="center">A passionate Frontend Developer from Perú</h3>
+  <div align="center">
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    </div>
+</div>
+</div>
 
+### 👨‍💻 About Me :
+```javascript
+const AboutMe = {
+Code: {'JavaScript', 'Java'},
+Technologies: {
+    Frontend: {
+      javaScript : ['React'],
+      preprocessors: ['Sass'],
+      },
+    Databases: ['PostgreSQL', 'SQLServer', 'MySQL'],
+      },
+currentFocus: 'Frotend Development',
+Hobbies: ['Playing Videogames', 'Football', 'Music', 'sing', 'etc']  
+}  
+```
 <!--
 **LDevJ/LDevJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
